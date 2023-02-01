@@ -3,6 +3,7 @@
 
 <b>Paper Title</b>: "End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks"\
 <b>ArXiv:</b> https://arxiv.org/abs/2011.05552 \
+https://www.jiqizhixin.com/articles/2020-11-27-5 \
 <b>Abstract:</b> \
 Current GAN-based art generation methods produce unoriginal artwork due to their dependence on conditional input. Here, we propose Sketch-And-Paint GAN (SAPGAN), the first model which generates Chinese landscape paintings from end to end, without conditional input. SAPGAN is composed of two GANs: SketchGAN for generation of edge maps, and PaintGAN for subsequent edge-to-painting translation. Our model is trained on a new dataset of traditional Chinese landscape paintings never before used for generative research. A 242-person Visual Turing Test study reveals that SAPGAN paintings are mistaken as human artwork with 55% frequency, significantly outperforming paintings from baseline GANs. Our work lays a groundwork for truly machine-original art generation.
 
